@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { AnimatePresence } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import {
   Menu,
   X,
@@ -289,7 +289,7 @@ function App() {
             <div className="profile-card">
               <div className="profile-image">
                 <img
-                  src="/me.png"
+                  src="/profile.jpg"
                   alt="Mina Hany William"
                   className="profile-photo"
                 />

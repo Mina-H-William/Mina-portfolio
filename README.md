@@ -126,10 +126,6 @@ To add a new section:
 3. Add corresponding CSS styles
 4. Update the scroll handling logic if needed
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👤 About Mina Hany
 
 Mina Hany is a passionate software engineer with expertise in modern web technologies. This portfolio showcases his skills, experience, and projects in an engaging and professional manner.
